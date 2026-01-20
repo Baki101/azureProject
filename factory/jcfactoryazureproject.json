@@ -1,0 +1,9 @@
+{
+	"name": "jcfactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "199fc10a-ae96-4574-b41f-38833b81b7e3",
+		"tenantId": "dd246e4a-5434-4e15-8ae3-91ad9797b209"
+	}
+}
